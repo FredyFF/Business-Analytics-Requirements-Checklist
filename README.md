@@ -169,3 +169,5 @@ Collaborate and share visualizations and reports via team messaging and collabor
 - Projects or Workspaces
 - Write to Transactional Applications
 
+### References
+10 Examples of Business Analysis https://www.knowledgehut.com/
